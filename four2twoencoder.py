@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 13 20:38:31 2019
-This program implements FourToEncoder using tensorflow. Here we use three neurons working as OR,NAND, and AND gates
+This program implements FourToEncoder using tensorflow. Here we use two neurons working as OR gates
 Input to be given through terminal . There re three inputs. Inputs can be binary digits i.e 0 and 1.
 @author: shree
 """
