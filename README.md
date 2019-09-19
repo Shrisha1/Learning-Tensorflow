@@ -11,3 +11,5 @@ Program Description
 3.AddThreeNumbers.py- Adds three numbers with numbers as tensors
 
 4.UseOfInbuiltSobelEdgeFilter.py- Shows an example on using method  "tf.image.sobel_edges"
+
+5.RgbToGreyExample.py- Demonstrates usage of "tf.image.rgb_to_grayscale"
