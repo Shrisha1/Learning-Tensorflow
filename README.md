@@ -13,3 +13,5 @@ Program Description
 4.UseOfInbuiltSobelEdgeFilter.py- Shows an example on using method  "tf.image.sobel_edges"
 
 5.RgbToGreyExample.py- Demonstrates usage of "tf.image.rgb_to_grayscale"
+
+6.id3UsingAPI.pynb- install decision-tree-id3 using "pip install decision-tree-id3"
